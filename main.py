@@ -11,16 +11,10 @@ from openai import OpenAI
 client = OpenAI(api_key=st.secrets["openai_api_key"])
 
 # 匯入單字庫
-from anna_12_4_S2 import word_data as anna_12_4_S2
-from anna_14_5_S2 import word_data as anna_14_5_S2
-from anna_15_5_S2 import word_data as anna_15_5_S2
-from anna_16_5_S2 import word_data as anna_16_5_S2
+from paper_towns_may_06 import word_data as paper_towns_may_06
 
 book_options = {
-    "Your English Five a Day #12.4 S2": anna_12_4_S2,
-    "Your English Five a Day #14.5 S2": anna_14_5_S2,
-    "Your English Five a Day #15.5 S2": anna_15_5_S2,
-    "Your English Five a Day #16.5 S2": anna_16_5_S2,
+    "paper_towns_may_06": paper_towns_may_06,
 }
 
 # UI
