@@ -11,12 +11,12 @@ from openai import OpenAI
 client = OpenAI(api_key=st.secrets["openai_api_key"])
 
 # 匯入單字庫
-from paper_towns_may_06 import word_data as paper_towns_may_06
-from paper_towns_may_07 import word_data as paper_towns_may_07
+from paper_towns_may_06_a import word_data as paper_towns_may_06_a
+from paper_towns_may_07_a import word_data as paper_towns_may_07_a
 
 book_options = {
-    "paper_towns_may_06": paper_towns_may_06,
-    "paper_towns_may_07": paper_towns_may_07,
+    "paper_towns_may_06_a": paper_towns_may_06_a,
+    "paper_towns_may_07_a": paper_towns_may_07_a,
 }
 
 # UI
