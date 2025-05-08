@@ -14,12 +14,13 @@ client = OpenAI(api_key=st.secrets["openai_api_key"])
 from paper_towns_may_06_a import word_data as paper_towns_may_06_a
 from paper_towns_may_07_a import word_data as paper_towns_may_07_a
 from paper_towns_may_07_b import word_data as paper_towns_may_07_b
-
+from paper_towns_may_08_a import word_data as paper_towns_may_08_a
 
 book_options = {
     "paper_towns_may_06_a": paper_towns_may_06_a,
     "paper_towns_may_07_a": paper_towns_may_07_a,
     "paper_towns_may_07_b": paper_towns_may_07_b,
+    "paper_towns_may_08_a": paper_towns_may_08_a,
 }
 
 # UI
