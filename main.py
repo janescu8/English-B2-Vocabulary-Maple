@@ -11,20 +11,14 @@ from openai import OpenAI
 client = OpenAI(api_key=st.secrets["openai_api_key"])
 
 # 匯入單字庫
-from paper_towns_may_06_a import word_data as paper_towns_may_06_a
-from paper_towns_may_07_a import word_data as paper_towns_may_07_a
-from paper_towns_may_07_b import word_data as paper_towns_may_07_b
-from paper_towns_may_08_a import word_data as paper_towns_may_08_a
+from may_18_a import word_data as may_18_a
 
 book_options = {
-    "paper_towns_may_06_a": paper_towns_may_06_a,
-    "paper_towns_may_07_a": paper_towns_may_07_a,
-    "paper_towns_may_07_b": paper_towns_may_07_b,
-    "paper_towns_may_08_a": paper_towns_may_08_a,
+    "may_18_a": may_18_a,
 }
 
 # UI
-st.title("📚 英文單字測試遊戲 / English Vocabulary Game")
+st.title("📚 英文單字遊戲 / English Vocabulary Game")
 selected_book = st.selectbox("請選擇一本書 / Choose a book:", list(book_options.keys()))
 word_data = book_options[selected_book]
 st.write(f"📖 單字庫總數 / Total words: {len(word_data)}")
