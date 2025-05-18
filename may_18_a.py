@@ -1,1 +1,15 @@
-
+word_data = {
+    "dummy": ("a silly or unintelligent person", "Don’t be a dummy—read the instructions first."),
+    "walk out": ("to leave suddenly, often in protest or anger", "She decided to walk out of the meeting after the rude comment."),
+    "mundane": ("lacking interest or excitement; dull", "He was tired of his mundane daily routine."),
+    "out of the ordinary": ("unusual or unexpected", "Nothing out of the ordinary happened during the trip."),
+    "on the edge of your knife": ("in a very tense or dangerous situation", "The negotiations were so intense, it felt like we were on the edge of a knife."),
+    "drunk on your vine": ("intoxicated or overwhelmed by someone's presence or influence", "He was completely drunk on her vine, unable to think straight."),
+    "couchette": ("a compartment on a train with bunk beds for sleeping", "We reserved a couchette for the overnight journey to Paris."),
+    "sheer": ("used to emphasize the size, degree, or amount of something", "The sheer amount of work was overwhelming."),
+    "infatuation": ("an intense but short-lived passion or admiration", "Her infatuation with the actor faded after a few weeks."),
+    "bliss": ("perfect happiness or joy", "They were in a state of bliss during their honeymoon."),
+    "undone": ("ruined or destroyed; also, emotionally unraveled", "One mistake and the entire plan was undone."),
+    "admission information session": ("a presentation providing details about a school or university’s application process", "We attended an admission information session to learn more about the college."),
+    "stir fry restaurant": ("a restaurant that specializes in stir-fried dishes", "Let’s grab dinner at that new stir fry restaurant downtown."),
+}
