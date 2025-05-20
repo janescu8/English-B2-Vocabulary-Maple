@@ -12,9 +12,11 @@ client = OpenAI(api_key=st.secrets["openai_api_key"])
 
 # 匯入單字庫
 from may_18_a import word_data as may_18_a
+from may_20_a import word_data as may_20_a
 
 book_options = {
     "may_18_a": may_18_a,
+    "may_20_a": may_20_a,
 }
 
 # UI
