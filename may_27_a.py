@@ -1,0 +1,15 @@
+word_data = {
+    "bangs": ("a hairstyle in which the front part of the hair is cut and styled to hang over the forehead", "She just got bangs and they look amazing on her."),
+    "poignant": ("evoking a keen sense of sadness or regret", "The movie ended with a poignant scene that left everyone in tears."),
+    "amplify": ("to increase the volume or intensity of something", "The speaker used a microphone to amplify her voice."),
+    "ignite": ("to catch fire or cause to catch fire; to spark an emotion or action", "His speech helped ignite a passion for change in the crowd."),
+    "melancholic": ("feeling or expressing sadness or sorrow", "There was a melancholic tone to the old piano music."),
+    "heartfelt": ("sincere and deeply felt", "She gave a heartfelt apology for missing the event."),
+    "cringe": ("to react with embarrassment or discomfort", "I always cringe when I watch my old school presentations."),
+    "ferris wheel": ("a large, vertical rotating wheel with passenger cabins attached along the rim", "We rode the Ferris wheel at sunset and enjoyed the view."),
+    "grand opening": ("the official launch or inauguration of a new business or venue", "The bakery held a grand opening with free samples and balloons."),
+    "a coat of dust": ("a layer of fine dry particles covering a surface", "The abandoned room was covered in a coat of dust."),
+    "suspended": ("temporarily prevented from continuing or being in effect", "The game was suspended due to heavy rain."),
+    "jittery": ("nervous or unable to relax", "He felt jittery before giving his first public speech."),
+    "reflective": ("thoughtful, especially about past experiences", "She stared out the window in a reflective mood."),
+}
