@@ -9,6 +9,6 @@ word_data = {
     "diagram": ("a simplified drawing showing the structure of something", "She used a diagram to understand the flow of the process."),
     "summary": ("a brief statement of the main points", "Writing a summary after each chapter helped him remember key details."),
     "group session": ("a learning or discussion meeting with multiple participants", "They held a weekly group session to review challenging topics."),
-    "weekly reviews": ("regular evaluations done every week to consolidate learning", "Weekly reviews helped him stay on track with the course material."),
+    "weekly review": ("regular evaluations done every week to consolidate learning", "Weekly reviews helped him stay on track with the course material."),
     "celebrate small wins": ("to acknowledge and take joy in minor achievements", "To stay motivated, it’s important to celebrate small wins."),
 }
