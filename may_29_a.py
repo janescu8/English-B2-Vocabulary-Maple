@@ -1,0 +1,15 @@
+word_data = {
+    "in some time": ("after a while; eventually", "We'll be ready to eat in some time."),
+    "switzerland": ("a country in central Europe known for its neutrality and mountains", "She went skiing in Switzerland last winter."),
+    "sweden": ("a country in northern Europe known for its design and nature", "Sweden has beautiful landscapes and progressive social policies."),
+    "organic egg": ("an egg produced by hens fed organic feed and raised without synthetic additives", "I prefer to buy organic eggs for my breakfast."),
+    "soft-boiled": ("an egg cooked in its shell with a runny yolk and slightly set white", "He had a soft-boiled egg with toast soldiers."),
+    "hard-boiled": ("an egg cooked in its shell until both the white and yolk are solid", "She packed a hard-boiled egg for lunch."),
+    "sunny side up": ("a way of frying an egg where the yolk remains visible and runny on top", "He likes his eggs sunny side up with toast."),
+    "overeasy": ("a fried egg flipped once and lightly cooked on both sides with a runny yolk", "I’ll have two eggs overeasy with bacon."),
+    "overmedium": ("a fried egg flipped once, cooked until the yolk is partially set", "She ordered her eggs overmedium."),
+    "overhard": ("a fried egg flipped and cooked until the yolk is fully firm", "He wants his eggs overhard."),
+    "scrambled eggs": ("eggs beaten and stirred while cooking to create soft curds", "Scrambled eggs are a quick and tasty breakfast."),
+    "poached egg": ("an egg cooked without its shell in simmering water", "I had a poached egg on avocado toast."),
+    "omelet": ("a dish made by frying beaten eggs, often folded around a filling", "She made a cheese omelet for brunch."),
+}
