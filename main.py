@@ -3,6 +3,7 @@ import streamlit as st
 import re
 import os
 import time
+import importlib
 from gtts import gTTS
 from pydub import AudioSegment
 from openai import OpenAI
@@ -10,30 +11,25 @@ from openai import OpenAI
 # 初始化 OpenAI client
 client = OpenAI(api_key=st.secrets["openai_api_key"])
 
-# 匯入單字庫
-from may_18_a import word_data as may_18_a
-from may_20_a import word_data as may_20_a
-from may_22_a import word_data as may_22_a
-from may_24_a import word_data as may_24_a
-from may_24_b import word_data as may_24_b
-from may_25_a import word_data as may_25_a
-from may_27_a import word_data as may_27_a
-from may_29_a import word_data as may_29_a
-from may_29_b import word_data as may_29_b
-from may_29_c import word_data as may_29_c
+# 要載入的檔名清單
+book_names = [
+    "may_18_a",
+    "may_20_a",
+    "may_22_a",
+    "may_24_a",
+    "may_24_b",
+    "may_25_a",
+    "may_27_a",
+    "may_29_a",
+    "may_29_b",
+    "may_29_c",
+]
 
+# 動態匯入並建立 book_options 字典
 book_options = {
-    "may_18_a": may_18_a,
-    "may_20_a": may_20_a,
-    "may_22_a": may_22_a,
-    "may_24_a": may_24_a,
-    "may_24_b": may_24_b,
-    "may_25_a": may_25_a,
-    "may_27_a": may_27_a,
-    "may_29_a": may_29_a,
-    "may_29_b": may_29_b,
-    "may_29_c": may_29_c,
+    name: importlib.import_module(name).word_data for name in book_names
 }
+
 
 # UI
 st.title("📚 英文單字遊戲 / English Vocabulary Game")
