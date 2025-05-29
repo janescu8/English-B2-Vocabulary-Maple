@@ -19,6 +19,7 @@ from may_24_b import word_data as may_24_b
 from may_25_a import word_data as may_25_a
 from may_27_a import word_data as may_27_a
 from may_29_a import word_data as may_29_a
+from may_29_b import word_data as may_29_b
 
 book_options = {
     "may_18_a": may_18_a,
@@ -29,6 +30,7 @@ book_options = {
     "may_25_a": may_25_a,
     "may_27_a": may_27_a,
     "may_29_a": may_29_a,
+    "may_29_b": may_29_b,
 }
 
 # UI
