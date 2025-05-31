@@ -1,0 +1,15 @@
+word_data = {
+    "share a duty": ("to divide or take turns doing a responsibility", "We share a duty to keep the house clean."),
+    "annotate": ("to add notes or comments to explain or give more information", "Please annotate the article with your insights."),
+    "interdisciplinary": ("involving two or more areas of knowledge or study", "The course takes an interdisciplinary approach to climate change."),
+    "underway": ("already happening or in progress", "The construction project is already underway."),
+    "validation": ("confirmation that something is true or acceptable", "She needs validation from her peers to feel confident."),
+    "recurring": ("happening repeatedly or periodically", "I keep having a recurring dream about being late to class."),
+    "pretty fire": ("really cool or impressive (slang)", "That new track is pretty fire!"),
+    "drip": ("a stylish or fashionable appearance, especially clothing (slang)", "His outfit’s got some serious drip."),
+    "drippier": ("having even more style or fashionable appearance (slang)", "That jacket is even drippier than the one you wore yesterday."),
+    "mad lit": ("extremely exciting or cool (slang)", "The concert last night was mad lit!"),
+    "on god": ("I swear; I’m being completely honest (slang)", "That was the best burger I’ve ever had, on God."),
+    "no cap": ("no lie; seriously; for real (slang)", "That movie was amazing, no cap."),
+    "nailed it": ("did something perfectly or successfully", "She nailed it on her first try."),
+}
