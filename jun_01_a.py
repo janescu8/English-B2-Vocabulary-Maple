@@ -7,5 +7,6 @@ word_data = {
     "peace of mind": ("a mental state of calmness and security", "Having insurance gave him peace of mind during the trip."),
     "breast discomfort": ("pain or abnormal sensation in the breast area", "She scheduled a doctor’s appointment due to breast discomfort."),
     "whittling": ("the act of carving or shaping wood by cutting small slices from it", "He spent the afternoon whittling a small wooden animal."),
+    "whittle": ("to carve or shape wood by cutting small slices from it", "He spent the afternoon whittling a piece of wood into a small figurine."),
     "social butterfly": ("a person who enjoys frequent socializing and mingling", "She's such a social butterfly at parties."),
 }
