@@ -26,6 +26,7 @@ book_names = [
     "may_31_a",
     "jun_01_a",
     "jun_01_b",
+    "jun_01_c",
 ]
 
 # 動態匯入並建立 book_options 字典
