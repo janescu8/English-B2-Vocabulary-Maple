@@ -63,8 +63,8 @@ def play_pronunciation(text, mp3="pronunciation.mp3", wav="pronunciation.wav"):
             st.audio(f, format="audio/wav")
 
 def clean_text(t):
-    return re.sub(r"[^a-zA-Z\-’' ]", '', t).lower().strip()
-
+    t = t.replace('’', "'").replace('‘', "'")
+    return re.sub(r"[^a-zA-Z\-'\s]", '', t).lower().strip()
 
 # 初始化狀態
 if (
