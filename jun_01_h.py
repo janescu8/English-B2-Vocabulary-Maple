@@ -9,5 +9,6 @@ word_data = {
     "bandaid": ("a small adhesive bandage used to cover cuts or blisters", "He put a bandaid on his finger after the paper cut."),
     "chapstick": ("a lip balm used to prevent or treat chapped lips", "I always carry chapstick in my bag during winter."),
     "crow": ("a large black bird known for its intelligence and loud cawing", "A crow landed on the fence and watched us."),
+    "a good part of today": ("a large or significant portion of the day", "I spent a good part of today studying English."),
 }
 
