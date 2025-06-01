@@ -1,0 +1,15 @@
+word_data = {
+    "preserve": ("to keep something in its original state or in good condition", "We should preserve old buildings for future generations."),
+    "barre": ("a workout combining ballet, yoga, and pilates, often using a ballet barre for balance", "She goes to a barre class every Saturday morning."),
+    "heartfelt": ("deeply sincere or genuine", "He gave a heartfelt apology after the argument."),
+    "emotionally invested": ("having strong emotional attachment or interest in something", "I got emotionally invested in the show and cried at the ending."),
+    "take things to heart": ("to be deeply affected by criticism or comments", "Don’t take his words to heart—he didn’t mean to upset you."),
+    "stan smith adidas": ("a classic and popular model of Adidas sneakers", "I finally bought a pair of white Stan Smith Adidas shoes."),
+    "braised food": ("food cooked slowly in liquid, often resulting in tender and flavorful dishes", "We had braised food for dinner, including pork belly and tofu."),
+    "gourd": ("a type of hard-shelled fruit often used as a vegetable in cooking", "She added slices of gourd to the soup for extra flavor."),
+    "shin kong cinemas": ("a movie theater chain in Taiwan", "We went to Shin Kong Cinemas to catch the latest Marvel movie."),
+    "facial treatment": ("a skincare procedure that cleans and rejuvenates the face", "She scheduled a facial treatment before the wedding."),
+    "tilde": ("a symbol (~) used in writing or programming, often to indicate approximation or for stylistic purposes", "He typed a tilde to indicate a range, like 3~5 days."),
+    "west point": ("a prestigious U.S. military academy officially called the United States Military Academy", "He gave a speech to the graduates at West Point."),
+    "sweet potato": ("a root vegetable with sweet flavor, often orange inside", "We had roasted sweet potato as a side dish."),
+}
