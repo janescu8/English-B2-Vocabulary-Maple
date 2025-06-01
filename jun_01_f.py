@@ -1,0 +1,15 @@
+word_data = {
+    "congee": ("a type of rice porridge common in Asian cuisine", "She had a bowl of warm congee for breakfast."),
+    "squid": ("a sea animal with a soft body and tentacles, often eaten as seafood", "Fried squid is one of my favorite snacks."),
+    "water spinach": ("a leafy green vegetable common in Asian cooking, also known as morning glory or ong choy", "They stir-fried water spinach with garlic."),
+    "scallion eggs": ("a dish made with eggs and chopped green onions", "We had scallion eggs and toast for breakfast."),
+    "pickled melon": ("melon that has been preserved in vinegar or brine", "The pickled melon added a tangy flavor to the meal."),
+    "wheat gluten": ("a chewy, protein-rich meat substitute made from wheat, also known as seitan", "The vegetarian stew included chunks of wheat gluten."),
+    "scallop": ("a type of shellfish with a soft, sweet meat, often served grilled or seared", "The scallop was perfectly seared and tender."),
+    "mango bun": ("a sweet pastry filled with or flavored by mango, popular in Asian bakeries", "I bought a mango bun from the bakery this morning."),
+    "rice dumpling": ("a traditional food made of glutinous rice wrapped in leaves, often filled with meat or beans", "We ate rice dumplings to celebrate the Dragon Boat Festival."),
+    "mastitis": ("inflammation of breast tissue, often due to infection, common during breastfeeding", "She experienced pain and swelling from mastitis."),
+    "lump": ("a small swelling or bump, especially under the skin", "She found a lump in her breast and went to the doctor."),
+    "discharge": ("fluid that comes out of the body, often used to describe unusual secretions", "If you notice unusual discharge, it’s best to get it checked."),
+    "sting": ("a sharp pain or burning sensation", "The cut started to sting when she washed it with soap."),
+}
