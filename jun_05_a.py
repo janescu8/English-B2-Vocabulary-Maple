@@ -1,0 +1,15 @@
+word_data = {
+    "antibiotics": ("medications used to treat bacterial infections", "The doctor prescribed antibiotics for her strep throat."),
+    "steroids": ("synthetic drugs that mimic certain hormones, often used to reduce inflammation or enhance muscle growth", "Athletes caught using steroids can be banned from competitions."),
+    "severity": ("the degree of seriousness or intensity", "The severity of the storm caused widespread damage."),
+    "misconception": ("a mistaken belief or idea", "There's a common misconception that bats are blind."),
+    "realness": ("the quality of being genuine or true", "I appreciated the realness of her feedback."),
+    "factual": ("based on facts rather than opinions", "The article is factual and well-researched."),
+    "intuition": ("the ability to understand something immediately without reasoning", "She followed her intuition and avoided the deal."),
+    "on autopilot": ("doing something without thinking, out of habit", "I drove to work on autopilot and barely remember the trip."),
+    "history buff": ("someone who is very interested in history", "As a history buff, he spends weekends visiting museums."),
+    "designate": ("to officially assign or name", "The manager will designate someone to lead the project."),
+    "heritage": ("traditions, achievements, or beliefs passed down through generations", "The festival celebrates the region’s cultural heritage."),
+    "so-and-so": ("a placeholder name for a person whose name is unknown or not specified", "She was talking to so-and-so about the new policy."),
+    "tedious": ("boring and repetitive", "Filing all these reports is a tedious task."),
+}
