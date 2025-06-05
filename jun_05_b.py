@@ -1,0 +1,15 @@
+word_data = {
+    "slaughter of the innocents": ("a brutal or unjust killing of defenseless people, especially children", "The war was condemned as a slaughter of the innocents."),
+    "fragged out": ("completely exhausted or worn out, especially mentally or physically", "After the 12-hour shift, she was totally fragged out."),
+    "alacrity": ("cheerful readiness or eagerness", "He accepted the job offer with alacrity."),
+    "dangle": ("to hang loosely, often swinging back and forth", "The keys dangled from his belt."),
+    "jeer": ("to mock or taunt someone in a rude or scornful way", "The crowd jeered at the losing team."),
+    "whitewash": ("to cover up or gloss over faults, crimes, or errors", "The report was criticized as an attempt to whitewash the scandal."),
+    "dilapidated": ("in a state of disrepair or ruin due to neglect", "They explored the dilapidated old mansion."),
+    "harp": ("to talk or complain persistently and tediously on a particular topic", "Stop harping on the same issue."),
+    "cannon": ("a large, heavy gun typically mounted or used in warfare", "The old fort still had a rusted cannon at its entrance."),
+    "tadpole": ("the larval stage of a frog or toad, typically aquatic and tailed", "The pond was full of swimming tadpoles."),
+    "brass": ("high-ranking military officers or boldness and confidence, especially in a disrespectful way", "The brass decided to change the battle plan."),
+    "window sash": ("the frame that holds the glass pane of a window", "He painted the window sash white to match the trim."),
+    "rolling in wealth": ("extremely rich or wealthy", "After the IPO, she was rolling in wealth."),
+}
