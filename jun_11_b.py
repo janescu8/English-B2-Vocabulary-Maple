@@ -1,0 +1,15 @@
+word_data = {
+    "rejuvenate": ("to make someone feel or look younger or more energetic", "A vacation can really rejuvenate your spirit."),
+    "stylistic": ("relating to the style of something, especially in art or literature", "The film’s stylistic choices made it visually stunning."),
+    "perceive": ("to become aware or conscious of something; to interpret in a certain way", "She could perceive the tension in the room."),
+    "preserve": ("to keep something in its original state or in good condition", "They worked hard to preserve the old building."),
+    "vinegar": ("a sour liquid used to flavor or preserve foods", "She added a splash of vinegar to the salad dressing."),
+    "brine": ("water strongly impregnated with salt, often used to preserve or pickle food", "The cucumbers were soaked in brine for several days."),
+    "glutinous": ("sticky, especially due to the presence of gluten or starch", "The glutinous rice stuck to the spoon."),
+    "scallion": ("a type of young green onion with a mild flavor", "He sprinkled chopped scallion over the soup."),
+    "proactive": ("taking action in advance to deal with potential problems", "She’s very proactive about managing her schedule."),
+    "combo": ("a combination of things, especially food items or products", "I’ll take the burger and fries combo."),
+    "thoughtfulness": ("consideration for the needs of others; showing care", "His thoughtfulness really made her day."),
+    "solid day": ("a productive or satisfying day", "I got a lot done—it was a solid day."),
+    "introspective": ("characterized by self-analysis or looking inward", "He became more introspective after the retreat."),
+}
